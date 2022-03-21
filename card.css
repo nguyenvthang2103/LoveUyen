@@ -10,8 +10,8 @@ body {
         height:80vh;
         width:80vw;
         margin-top: 10vh !important;
-        padding-top: 6px !important;
-        padding:0 16px;
+
+        padding:10px 16px;
         border-radius:10px;
         background: url("anhnen.png") top left /contain;
         background-size:50vh,70vh;
