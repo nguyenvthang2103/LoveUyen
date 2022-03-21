@@ -1,0 +1,36 @@
+.continue{
+    position: fixed;
+    bottom: 50px;
+    left: 50%;
+    transform: translate(-50%);
+    text-decoration: none;
+    font-size: 24px;
+    padding: 10px 16px;
+    color: white;
+    background-color: rgb(245, 38, 38);
+    border-radius: 10px;
+    box-shadow: 0 0 4px;
+}
+.next, .prev{
+    position: fixed;
+    bottom: 10px;
+    text-decoration: none;
+    font-size: 24px;
+    padding: 10px 16px;
+    color: white;
+    background-color: rgb(245, 38, 38);
+    border-radius: 10px;
+    box-shadow: 0 0 4px;
+}
+.next{
+    right: 20%;
+}
+.prev{
+    left: 20%;
+}
+.audio{
+    top: 10px;
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%);
+}

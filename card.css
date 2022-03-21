@@ -1,0 +1,62 @@
+body {
+
+    background:linear-gradient(-120deg, white,red,white);
+    
+    background-attachment:fixed;
+    
+    }
+    
+    #card{
+        height:80vh;
+        width:80vw;
+        margin-top: 10vh !important;
+        padding-top: 6px !important;
+        padding:0 16px;
+        border-radius:10px;
+        background: url("anhnen.png") top left /contain;
+        background-size:50vh,70vh;
+        box-shadow:0px 0px 20px red;
+        transform:rotate(2deg);
+        margin: 0 auto;
+    }
+    
+    img{
+    
+    margin:auto;
+    padding:10px;
+    
+    display:block;
+    
+    border-radius:50%;
+    
+    box-shadow: 0 4px 8px 0 red;
+    
+        width:60px;
+    
+        height:60px;
+    
+    }
+    h4{
+        font-size: 25px;
+        text-align: center;
+        color: rgb(211, 0, 0);
+    }
+    .text{
+    
+        text-align:center;
+    
+          -webkit-text-fill-color: rgba(0,200,200,0.1);
+    
+         -webkit-background-clip:text;
+         
+         background-image:url("https://i.pinimg.com/originals/20/21/7f/20217f7fa2c9701b8128d8fb153a4db9.gif");
+    
+         font-family: 'Source Sans Pro', sans-serif;
+    
+         padding:-2%;
+    
+         font-size:23px;
+    
+         overflow:hidden;
+    
+    }

@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}
+body{
+    height: 100vh;
+    background: linear-gradient(0, pink, red) no-repeat;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
