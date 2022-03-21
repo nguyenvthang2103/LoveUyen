@@ -7,7 +7,7 @@ body {
     }
     
     #card{
-        height:80vh;
+        height:auto;
         width:80vw;
         margin-top: 10vh !important;
 
